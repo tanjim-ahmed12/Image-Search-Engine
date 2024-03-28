@@ -1,4 +1,4 @@
-const accessKey = ""; //Use your own API key
+const accessKey = "sJqaMR-215to4dihpOxl03ZyozbyAYXoyyIxTQQYH98"; //Use your own API key
 
 const searchForm = document.getElementById("search-form");
 const searchBox = document.getElementById("search-box");
